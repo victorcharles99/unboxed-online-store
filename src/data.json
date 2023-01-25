@@ -1,0 +1,53 @@
+{
+    "products":[
+         {"_id":"dress1",
+        "_title": "Dress 1",
+        "image": "/images/shirts/picture1.jpg",
+        "_Description": "about dress 1",
+        "availableSizes": ["xl", "xxl"],
+        "price": 29.9
+        },
+
+         {"_id":"dress1",
+        "_title": "Dress 1",
+        "image": "/images/shirts/picture2.jpg",
+        "_Description": "about dress 1",
+        "availableSizes": ["xl", "xxl"],
+        "price": 29.9
+        },
+
+         {"_id":"dress1",
+        "_title": "Dress 1",
+        "image": "/images/shirts/picture3.jpg",
+        "_Description": "about dress 1",
+        "availableSizes": ["xl", "xxl"],
+        "price": 29.9
+        },
+
+         {"_id":"dress1",
+        "_title": "Dress 1",
+        "image": "/images/shirts/picture4.jpg",
+        "_Description": "about dress 1",
+        "availableSizes": ["xl", "xxl"],
+        "price": 29.9
+        },
+
+         {"_id":"dress1",
+        "_title": "Dress 1",
+        "image": "/images/shirts/picture5.jpg",
+        "_Description": "about dress 1",
+        "availableSizes": ["xl", "xxl"],
+        "price": 29.9
+        },
+
+         {"_id":"dress1",
+        "_title": "Dress 1",
+        "image": "/images/shirts/picture6.jpg",
+        "_Description": "about dress 1",
+        "availableSizes": ["xl", "xxl"],
+        "price": 29.9
+        }
+       
+        
+    ]
+}
